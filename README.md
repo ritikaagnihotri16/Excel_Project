@@ -7,8 +7,8 @@ This project is about analysing a clothing store data using excel. Store sells t
 Following are objectives for this project.
 > 1. Analysed orders and sale trend over different months.
 > 2. Analysed and identified top selling states.
-> 3. Analysed all age group and gender data.
-> 4. Studied Ecommerce portal sale.
+> 3. Studied age group and gender data.
+> 4. Analysed Different Ecommerce portal sale.
 
 ## Approach Used
 > 1. Cleaned and Transformed data, Added new columns like 'age group' and 'months'.
